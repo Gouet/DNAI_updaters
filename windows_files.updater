@@ -11,6 +11,7 @@ RW C:\Users\Victor\Documents\EIP\Duly-GUI\Deploiement\Windows\DNAISetup\packages
 RW C:\Users\Victor\Documents\EIP\Duly-GUI\Deploiement\Windows\DNAISetup\packages\com.vendor.product\data\libEGL.dll
 RW C:\Users\Victor\Documents\EIP\Duly-GUI\Deploiement\Windows\DNAISetup\packages\com.vendor.product\data\libGLESV2.dll
 RW C:\Users\Victor\Documents\EIP\Duly-GUI\Deploiement\Windows\DNAISetup\packages\com.vendor.product\data\msvcp140.dll
+RW C:\Users\Victor\Documents\EIP\Duly-GUI\Deploiement\Windows\DNAISetup\packages\com.vendor.product\data\msvcp140_1.dll
 RW C:\Users\Victor\Documents\EIP\Duly-GUI\Deploiement\Windows\DNAISetup\packages\com.vendor.product\data\opengl32sw.dll
 RW C:\Users\Victor\Documents\EIP\Duly-GUI\Deploiement\Windows\DNAISetup\packages\com.vendor.product\data\platforms
 RW C:\Users\Victor\Documents\EIP\Duly-GUI\Deploiement\Windows\DNAISetup\packages\com.vendor.product\data\qmltooling
