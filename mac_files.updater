@@ -1622,6 +1622,14 @@
 644 DNAI.app/Contents/PlugIns/Settings/settings.o
 644 DNAI.app/Contents/PlugIns/Settings/settingsparameters.o
 755 DNAI.app/Contents/PlugIns/styles/libqmacstyle.dylib
+644 DNAI.app/Contents/PlugIns/Theme/dnaitheme_plugin.o
+755 DNAI.app/Contents/PlugIns/Theme/libdnaithemeplugin.dylib
+644 DNAI.app/Contents/PlugIns/Theme/Makefile.ltheme
+644 DNAI.app/Contents/PlugIns/Theme/moc_dnaitheme_plugin.cpp
+644 DNAI.app/Contents/PlugIns/Theme/moc_dnaitheme_plugin.o
+644 DNAI.app/Contents/PlugIns/Theme/moc_predefs.h
+644 DNAI.app/Contents/PlugIns/Theme/qrc_qml.cpp
+644 DNAI.app/Contents/PlugIns/Theme/qrc_qml.o
 644 DNAI.app/Contents/Resources/DNAI_icon.icns
 644 DNAI.app/Contents/Resources/empty.lproj
 755 DNAI.app/Contents/Resources/qml/Qt/labs/folderlistmodel/libqmlfolderlistmodelplugin.dylib
