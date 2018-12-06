@@ -1540,6 +1540,7 @@
 755 DNAI.app/Contents/Frameworks/QtWidgets.framework/Versions/Current/QtWidgets
 644 DNAI.app/Contents/Frameworks/QtWidgets.framework/Versions/Current/Resources/Info.plist
 644 DNAI.app/Contents/Info.plist
+755 DNAI.app/Contents/MacOS/Core/CoreDaemon
 755 DNAI.app/Contents/MacOS/DNAI
 755 DNAI.app/Contents/MacOS/Server
 644 DNAI.app/Contents/MacOS/settings/conf/mac/bin_info.cfg
